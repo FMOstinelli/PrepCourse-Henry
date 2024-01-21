@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del precourse de henry
+Franco Ostinelli
+
+Este proyecto es una prueba de como crear un repositorio y abrirlo desde github en forma local
